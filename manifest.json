@@ -1,0 +1,24 @@
+{
+  "name": "BioSphere",
+  "short_name": "BioSphere",
+  "description": "Threats to Biodiversity & Healthy Society",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#0a1416",
+  "theme_color": "#0f4c5c",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "https://ui-avatars.com/api/?name=BioSphere&background=0f4c5c&color=fff&size=192",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://ui-avatars.com/api/?name=BioSphere&background=0f4c5c&color=fff&size=512",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
